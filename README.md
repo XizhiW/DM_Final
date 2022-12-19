@@ -8,7 +8,6 @@
 * Project paper: click [here](Final_Report.docx.pdf) to visit final report
 
 
-{Readme}
 
 ## Description
 {In this project, we show how deepwalk and node2vec can be used to generate movie recommendations by learning user-movie graph embedding.}
